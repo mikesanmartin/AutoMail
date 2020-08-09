@@ -1,0 +1,6 @@
+Hola! ${PERSON_NAME}
+
+Mail de prueba.
+
+Por favor, confirmar recepción.
+Saludos cordiales.

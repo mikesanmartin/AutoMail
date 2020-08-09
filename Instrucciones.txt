@@ -1,0 +1,15 @@
+Build 1.0
+Entrar a https://myaccount.google.com/u/1/lesssecureapps?gar=1 y permitir acceso a apps poco seguras
+Modificar archivo contactos.txt con el formato:
+nombre mail@mail.com
+
+Modificar archivo mensaje_prueba1.txt con el formato:
+contenido del mensaje en cuestión
+
+_____________________________________________________
+
+Limitaciones: 
+Solo funciona en Gmail
+Se ve la contraseña del user cuando la escribe en consola
+El asunto del mensaje esta incluido en programa (se modifica en 1.1)
+Sin GUI
